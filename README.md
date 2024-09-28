@@ -29,7 +29,7 @@ This project is a Driver License Reader application developed for INFORMO d.o.o.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/driver-license-reader.git
+   git clone https://github.com/DavidGvozdenovic/driver-license-reader.git
    ```
 
 2. Open the solution file (`.sln`) in Visual Studio.
@@ -45,6 +45,8 @@ This project is a Driver License Reader application developed for INFORMO d.o.o.
 - Launch the application from Visual Studio or the built executable.
 - Follow the on-screen instructions to scan a driver license.
 - The application will display the read data and store it in the database for further processing.
+- Or download .ZIP file and go: CitacSaobracajneV1.2 -> bin -> Debug ->CitacSaobracajneV1.2
+
 
 ## Contributing
 
